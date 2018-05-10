@@ -6,16 +6,16 @@ Commits N Crosses
 	|---|---|---|
 	|   |   |   |
 	|---|---|---|
-	|   |   |   |
+	|   | X |   |
 	|---|---|---|
 	|   |   |   |
 	|---|---|---|
 
 -------------
 
- Player X: ________
+ Player X: me
  
- Player O: ________
+ Player O: alternative universe me
 
 -------------
 
